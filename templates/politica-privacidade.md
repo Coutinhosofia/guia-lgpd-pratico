@@ -1,6 +1,6 @@
 # Template — Política de Privacidade
 
- Este é um modelo base. Adapte conforme a realidade da sua empresa e consulte um especialista jurídico., para que seja preenchido de maneira correta 
+ Este é um modelo base. Adapte conforme a realidade da sua empresa e consulte um especialista jurídico, para que seja preenchido de maneira correta 
 
 ---
 
