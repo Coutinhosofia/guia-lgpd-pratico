@@ -44,7 +44,7 @@ Entrou em vigor em **setembro de 2020** e as sanções passaram a ser aplicadas 
 - Multa de até **2% do faturamento**, limitada a **R$ 50 milhões por infração**
 - Bloqueio ou eliminação dos dados
 - Suspensão do banco de dados
-- Publicização da infração# 📘 Conceitos Fundamentais da LGPD
+- Publicização da infração#  Conceitos Fundamentais da LGPD
 
 ## O que é a LGPD?
 
